@@ -2,7 +2,9 @@
 
 Sorting algorithms implementation 
 
-* Bubble sort (*Pending*)
+* Bubble sort
+    * [Implementation cases](src/main/java/sorting/bubblesort/)
+    * [Test cases](src/test/java/sorting/bubblesort/)
 * Insertion Sort (*Pending*)
 * Selection Sort (*Pending*)
 * Three Number Sort (*Pending*)
