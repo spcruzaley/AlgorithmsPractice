@@ -18,13 +18,17 @@ public class BubbleSort {
 
         for (int j = i + 1; j < array.length; j++) {
             if (array[j] < array[i]) {
-                int tmp = array[i];
-                array[i] = array[j];
-                array[j] = tmp;
+                swap(array, i, j);
             }
         }
 
         bubbleSort(array, i + 1);
+    }
+
+    private static void swap(int[] array, int i, int j) {
+        int tmp = array[i];
+        array[i] = array[j];
+        array[j] = tmp;
     }
 
 }

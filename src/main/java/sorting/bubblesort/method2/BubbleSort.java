@@ -9,12 +9,19 @@ public class BubbleSort {
      * @param array
      */
     public void sort(int[] array) {
-        for (int i = 0; i < array.length; i++) {
-            for (int j = i + 1; j < array.length; j++) {
-                if (array[j] < array[i]) {
-                    swap(array, i, j);
+        boolean sorted = false;
+        int cont = 0;
+
+        while(!sorted) {
+            sorted = true;
+
+            for (int i = 0; i < array.length - 1 - cont; i++) {
+                if (array[i] > array[i + 1]) {
+                    swap(array, i, i + 1);
+                    sorted = false;
                 }
             }
+            cont++;
         }
     }
 
