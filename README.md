@@ -8,7 +8,9 @@ Sorting algorithms implementation
 * Insertion Sort (*Pending*)
 * Selection Sort (*Pending*)
 * Three Number Sort (*Pending*)
-* Quick Sort (*Pending*)
+* Quick Sort
+    * [Implementation cases](src/main/java/sorting/quicksort/)
+    * [Test cases](src/test/java/sorting/quicksort/)
 * Heap Sort (*Pending*)
 * Merge Sort
     * [Implementation cases](src/main/java/sorting/mergesort/)

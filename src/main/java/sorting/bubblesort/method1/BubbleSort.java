@@ -1,5 +1,7 @@
 package sorting.bubblesort.method1;
 
+import common.Utils;
+
 public class BubbleSort {
 
     /**
@@ -18,17 +20,11 @@ public class BubbleSort {
 
         for (int j = i + 1; j < array.length; j++) {
             if (array[j] < array[i]) {
-                swap(array, i, j);
+                Utils.swap(array, i, j);
             }
         }
 
         bubbleSort(array, i + 1);
-    }
-
-    private static void swap(int[] array, int i, int j) {
-        int tmp = array[i];
-        array[i] = array[j];
-        array[j] = tmp;
     }
 
 }

@@ -10,4 +10,5 @@ This algorithm can be done ***in place*** (**The input array will be updated in 
 The other case don't, it returns a new sorted array, the code in method 1 do that.
 
 ![Merge Sort Simulation](merge-example.gif)
+
 *Source: https://en.wikipedia.org/wiki/Merge_sort* 
