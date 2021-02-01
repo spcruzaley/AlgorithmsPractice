@@ -1,6 +1,6 @@
 # Algorithms Practice
 
-Sorting algorithms implementation 
+###Sorting algorithms implementation 
 
 * Bubble sort
     * [Implementation cases](src/main/java/sorting/bubblesort/)
@@ -15,3 +15,10 @@ Sorting algorithms implementation
 * Merge Sort
     * [Implementation cases](src/main/java/sorting/mergesort/)
     * [Test cases](src/test/java/sorting/mergesort/)
+
+## Platforms
+
+###
+
+* LeetCode
+    * [Two-Sum](src/main/java/leetcode/TwoSum/)
