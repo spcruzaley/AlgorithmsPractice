@@ -1,6 +1,6 @@
 # Algorithms Practice
 
-###Sorting algorithms implementation 
+## Sorting algorithms implementation 
 
 * Bubble sort
     * [Implementation cases](src/main/java/sorting/bubblesort/)
