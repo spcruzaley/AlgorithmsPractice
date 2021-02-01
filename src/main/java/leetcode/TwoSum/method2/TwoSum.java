@@ -35,7 +35,6 @@ public class TwoSum {
                 break;
             }
         }
-        Arrays.sort(twoSum);
 
         return twoSum;
     }

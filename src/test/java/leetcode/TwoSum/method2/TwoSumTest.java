@@ -15,6 +15,7 @@ public class TwoSumTest {
 
         int[] actualOutput = TwoSum.twoSum(arrayInput, target);
 
+        Arrays.sort(actualOutput);
         Assert.assertArrayEquals("Expected Array: " + Arrays.toString(expectedOutput)
                         + " - Actual array: " + Arrays.toString(actualOutput),
                 expectedOutput, actualOutput);
@@ -28,6 +29,7 @@ public class TwoSumTest {
 
         int[] actualOutput = TwoSum.twoSum(arrayInput, target);
 
+        Arrays.sort(actualOutput);
         Assert.assertArrayEquals("Expected Array: " + Arrays.toString(expectedOutput)
                         + " - Actual array: " + Arrays.toString(actualOutput),
                 expectedOutput, actualOutput);
@@ -41,6 +43,7 @@ public class TwoSumTest {
 
         int[] actualOutput = TwoSum.twoSum(arrayInput, target);
 
+        Arrays.sort(actualOutput);
         Assert.assertArrayEquals("Expected Array: " + Arrays.toString(expectedOutput)
                         + " - Actual array: " + Arrays.toString(actualOutput),
                 expectedOutput, actualOutput);
@@ -54,6 +57,7 @@ public class TwoSumTest {
 
         int[] actualOutput = TwoSum.twoSum(arrayInput, target);
 
+        Arrays.sort(actualOutput);
         Assert.assertArrayEquals("Expected Array: " + Arrays.toString(expectedOutput)
                         + " - Actual array: " + Arrays.toString(actualOutput),
                 expectedOutput, actualOutput);
@@ -67,6 +71,7 @@ public class TwoSumTest {
 
         int[] actualOutput = TwoSum.twoSum(arrayInput, target);
 
+        Arrays.sort(actualOutput);
         Assert.assertArrayEquals("Expected Array: " + Arrays.toString(expectedOutput)
                         + " - Actual array: " + Arrays.toString(actualOutput),
                 expectedOutput, actualOutput);
@@ -80,6 +85,7 @@ public class TwoSumTest {
 
         int[] actualOutput = TwoSum.twoSum(arrayInput, target);
 
+        Arrays.sort(actualOutput);
         Assert.assertArrayEquals("Expected Array: " + Arrays.toString(expectedOutput)
                         + " - Actual array: " + Arrays.toString(actualOutput),
                 expectedOutput, actualOutput);
@@ -93,6 +99,7 @@ public class TwoSumTest {
 
         int[] actualOutput = TwoSum.twoSum(arrayInput, target);
 
+        Arrays.sort(actualOutput);
         Assert.assertArrayEquals("Expected Array: " + Arrays.toString(expectedOutput)
                         + " - Actual array: " + Arrays.toString(actualOutput),
                 expectedOutput, actualOutput);
@@ -106,6 +113,7 @@ public class TwoSumTest {
 
         int[] actualOutput = TwoSum.twoSum(arrayInput, target);
 
+        Arrays.sort(actualOutput);
         Assert.assertArrayEquals("Expected Array: " + Arrays.toString(expectedOutput)
                         + " - Actual array: " + Arrays.toString(actualOutput),
                 expectedOutput, actualOutput);
@@ -119,6 +127,7 @@ public class TwoSumTest {
 
         int[] actualOutput = TwoSum.twoSum(arrayInput, target);
 
+        Arrays.sort(actualOutput);
         Assert.assertArrayEquals("Expected Array: " + Arrays.toString(expectedOutput)
                         + " - Actual array: " + Arrays.toString(actualOutput),
                 expectedOutput, actualOutput);
