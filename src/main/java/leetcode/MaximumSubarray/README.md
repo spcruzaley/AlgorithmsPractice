@@ -37,5 +37,4 @@ Output: -1
 * [Using a different approach](method2/MaximumSubarray.java)
     * [Test cases](../../../../test/java/leetcode/MaximumSubarray/method2/MaximumSubarrayTest.java)
 
-___
-> NOTE: The approaches are base on my own knowledge and don't be taken as a final solution, it can or can't be the most efficient, If you have a betther solution I encorage you to send me it if you want, to add it to the repository.  
+> *NOTE: The approaches are base on my own knowledge and don't be taken as a final solution, it can or can't be the most efficient, If you have a better solution I encourage you to send me it if you want, to add it to the repository.*  
