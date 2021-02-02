@@ -24,3 +24,4 @@
     * [Two-Sum](src/main/java/leetcode/twosum/)
     * [Maximum Subarray](src/main/java/leetcode/maximumsubarray/)
     * [Move Zeroes](src/main/java/leetcode/movezeroes/)
+    * [Rotate Array](src/main/java/leetcode/rotatearray/)
