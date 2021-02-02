@@ -21,6 +21,6 @@
 ###
 
 * LeetCode
-    * [Two-Sum](src/main/java/leetcode/TwoSum/)
-    * [Maximum Subarray](src/main/java/leetcode/MaximumSubarray/)
-    * [Move Zeroes](src/main/java/leetcode/MoveZeroes/)
+    * [Two-Sum](src/main/java/leetcode/twosum/)
+    * [Maximum Subarray](src/main/java/leetcode/maximumsubarray/)
+    * [Move Zeroes](src/main/java/leetcode/movezeroes/)
