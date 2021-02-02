@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class MaximumSubarray {
 
     /**
-     * Second solution using brute force, as
+     * Second solution with a different approach
      *      Complexity: O(N)
      *      Space: O(1)
      *
