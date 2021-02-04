@@ -9,6 +9,9 @@ public class TwoSum {
      * Second solution using space helper to reduce the complexity, thus we have
      *      Complexity: O(N)
      *      Space: O(N)
+     *
+     * See (/src/test/java/leetcode/twosum/method2/TwoSumTest.java) for test cases
+     *
      * @param nums
      * @param target
      * @return

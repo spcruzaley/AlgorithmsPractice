@@ -4,6 +4,25 @@ import common.Utils;
 
 public class QuickSort {
 
+    /**
+     * Quick sort deals dividing the array in two from a given pivot, the complexity could variate
+     *
+     *  Best case:
+     *      - Complexity O(N log (N))
+     *      - Space O(log(N)
+     *  Average case:
+     *      - Complexity O(N log (N))
+     *      - Space O(log(N)
+     *  Worst case:
+     *      - Complexity O(N^2)
+     *      - Space O(log(N)
+     *
+     * See (/src/test/java/sorting/quicksort/QuickSortTest.java) for test cases
+     *
+     * @param array
+     * @param leftIndex
+     * @param rightIndex
+     */
     public static void quickSort(int[] array, int leftIndex, int rightIndex) {
         if(leftIndex >= rightIndex) //base case
             return;

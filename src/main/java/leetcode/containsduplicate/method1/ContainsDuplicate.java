@@ -10,6 +10,8 @@ public class ContainsDuplicate {
      *      Complexity: O(N)
      *      Space: O(N)
      *
+     * See (/src/test/java/leetcode/containsduplicate/method1/ContainsDuplicateTest.java) for test cases
+     *
      * @param nums
      * @return
      */

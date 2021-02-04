@@ -14,6 +14,9 @@ public class BoxBlur {
 
     /**
      * Solution taken from Solution section
+     *
+     * See (src/test/java/codesignal/boxblur/method1/BoxBlurTest.java) for tests cases
+     *
      * @param image
      * @return
      */

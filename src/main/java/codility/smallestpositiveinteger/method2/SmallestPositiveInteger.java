@@ -13,6 +13,9 @@ public class SmallestPositiveInteger {
      * Solution using Java8 mostly.
      *  Complexity: ¿?
      *  Space: ¿?
+     *
+     *  See (/src/test/java/codility/smallestpositiveinteger/method2/SmallestPositiveIntegerTest.java) for test cases
+     *
      * @param A
      * @return
      */

@@ -7,6 +7,8 @@ public class MoveZeroes {
      *      Complexity: O(N^2)
      *      Space: O(1)
      *
+     * See (/src/test/java/leetcode/movezeroes/method1/MoveZeroesTest.java) for test cases
+     *
      * @param nums
      */
     public static void moveZeroes(int[] nums) {

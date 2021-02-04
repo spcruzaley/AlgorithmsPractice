@@ -9,6 +9,8 @@ public class ContainsDuplicate {
      *      Complexity: O(N log N) Due to sort algorithm
      *      Space: O(1)
      *
+     * See (/src/test/java/leetcode/containsduplicate/method2/ContainsDuplicateTest.java) for test cases
+     *
      * @param nums
      * @return
      */

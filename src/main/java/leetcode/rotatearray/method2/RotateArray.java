@@ -12,6 +12,8 @@ public class RotateArray {
      * NOTE: System.arraycopy has a complexity of O(length), internally it traverse, in this case, all the array
      * in order to generate the copy.
      *
+     * See (/src/test/java/leetcode/rotatearray/method2/RotateArrayTest.java) for test cases
+     *
      * @param nums
      * @param k
      */

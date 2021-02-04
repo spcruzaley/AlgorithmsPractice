@@ -7,6 +7,8 @@ public class TwoSum {
      *      Complexity: O(N^2)
      *      Space: O(1)
      *
+     * See (/src/test/java/leetcode/twosum/method1/TwoSumTest.java) for test cases
+     *
      * @param nums
      * @param target
      * @return

@@ -9,6 +9,8 @@ public class MergeSort {
      *      Complexity as: O(N log(N))
      *      Space as: O(N log(N))
      *
+     * See (/src/test/java/sorting/mergesort/method1/MergeSortTest.java) for test cases
+     *
      * @param array
      * @return
      */

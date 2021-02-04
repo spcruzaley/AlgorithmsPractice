@@ -8,6 +8,9 @@ public class BubbleSort {
      * Using two for loops we have
      *      Complexity: O(N^2) Still we have N square
      *      Space: O(1) Unlike the recursion approach, here we have constant space
+     *
+     * See (/src/test/java/sorting/bubblesort/method2/BubbleSortTest.java) for test cases
+     *
      * @param array
      */
     public void sort(int[] array) {

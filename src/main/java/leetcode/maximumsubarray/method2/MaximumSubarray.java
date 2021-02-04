@@ -9,6 +9,8 @@ public class MaximumSubarray {
      *      Complexity: O(N)
      *      Space: O(1)
      *
+     * See (/src/test/java/leetcode/maximumsubarray/method2/MaximumSubarrayTest.java) for test cases
+     *
      * @param nums
      * @return
      */

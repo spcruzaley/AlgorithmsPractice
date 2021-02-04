@@ -7,6 +7,9 @@ public class RotateArray {
      *      Complexity: O(N)
      *      Space: O(N)
      *      NOTE: Not feasible for a big number array dut to the stack, it could crashes
+     *
+     * See (/src/test/java/leetcode/rotatearray/method1/RotateArrayTest.java) for test cases
+     *
      * @param nums
      * @param k
      */

@@ -8,6 +8,9 @@ public class BubbleSort {
      * Bubble sort using recursion approach takes
      *      Complexity: O(N^2)
      *      Space: O(N) due to the recursion, we will to have in stack N - 1 levels
+     *
+     * See (/src/test/java/sorting/bubblesort/method1/BubbleSortTest.java) for test cases
+     *
      * @param array
      */
     public void sort(int[] array) {
