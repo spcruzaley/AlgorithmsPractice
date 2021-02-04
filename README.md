@@ -26,3 +26,9 @@
     * [Move Zeroes](src/main/java/leetcode/movezeroes/)
     * [Rotate Array](src/main/java/leetcode/rotatearray/)
     * [Contains Duplicate](src/main/java/leetcode/containsduplicate/)
+
+* CodeSignal
+    * [Box Blur](src/main/java/codesignal/boxblur/method1/)
+
+* Codility
+    * [Smallest Positive Integer](src/main/java/codility/smallestpositiveinteger/method2/)
