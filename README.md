@@ -29,6 +29,7 @@
 
 * CodeSignal
     * [Box Blur](src/main/java/codesignal/boxblur/method1/)
+    * [Minesweeper](src/main/java/codesignal/minesweeper/)
 
 * Codility
     * [Smallest Positive Integer](src/main/java/codility/smallestpositiveinteger/method2/)
