@@ -18,8 +18,6 @@
 
 ## Platforms
 
-###
-
 * LeetCode
     * [Two-Sum](src/main/java/leetcode/twosum/)
     * [Maximum Subarray](src/main/java/leetcode/maximumsubarray/)
@@ -35,7 +33,7 @@
 * Codility
     * [Smallest Positive Integer](src/main/java/codility/smallestpositiveinteger/method2/)
 
-Others
+## Others
 
 * Miscellaneous
     * [Prints binary tree node and level](src/main/java/misc/BinaryTreeWithLevels.java)

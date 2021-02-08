@@ -2,7 +2,9 @@ package misc;
 
 import common.TreeNode;
 
+import java.util.ArrayList;
 import java.util.LinkedList;
+import java.util.List;
 import java.util.Queue;
 
 public class BinaryTreeWithLevels {
@@ -11,8 +13,11 @@ public class BinaryTreeWithLevels {
      * Example method to print the current node and the current level using BST (Breadth First Search).
      *
      * @param treeNode
+     * @return
      */
-    public static void printBSTWithLevels(TreeNode treeNode) {
+    public static List<List<Integer>> BSTToNestedList(TreeNode treeNode) {
+        List<List<Integer>> nestedList = new ArrayList<>();
+
         Queue<TreeNode> q = new LinkedList<>();
         q.add(treeNode);
         int level = 1;
@@ -27,9 +32,13 @@ public class BinaryTreeWithLevels {
                 continue;
             }
 
-            System.out.println("Node: "+node.val+" - Current level: " + currentLevel);
             q.add(node.left);
             q.add(node.right);
+
+            if(nestedList.size() == currentLevel - 1) {
+                nestedList.add(new ArrayList<>());
+            }
+            nestedList.get(currentLevel-1).add(node.val);
 
             count++;
             if(count/2 == level) {
@@ -37,6 +46,8 @@ public class BinaryTreeWithLevels {
                 level *= 2;
             }
         }
+
+        return nestedList;
     }
 
 }
