@@ -34,3 +34,8 @@
 
 * Codility
     * [Smallest Positive Integer](src/main/java/codility/smallestpositiveinteger/method2/)
+
+Others
+
+* Miscellaneous
+    * [Prints binary tree node and level](src/main/java/misc/BinaryTreeWithLevels.java)
