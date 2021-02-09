@@ -12,13 +12,12 @@ public class BinaryTreeZigzagLevelOrderTraversalTest {
 
     @Test
     public void testZigzagLevelOrder() {
-        List<List<Integer>> expectedList = Utils.generateNestedList(new Integer[]{3,9,20,11,null,15,7});
+        String expectedList = "[[3], [20, 9], [11, 15, 7], [2, 1]]";
 
-        TreeNode treeNode = Utils.generateTreeNode(new Integer[]{3,9,20,null,null,15,7});
+        TreeNode treeNode = Utils.generateTreeNode(new Integer[]{3,9,20,11,null,15,7,1,2});
         List<List<Integer>> actualNestesList = BinaryTreeZigzagLevelOrderTraversal.zigzagLevelOrder(treeNode);
-        System.out.println(actualNestesList);
 
-        Assert.assertArrayEquals(expectedList.toArray(), actualNestesList.toArray());
+        Assert.assertEquals(expectedList, actualNestesList.toString());
     }
 
     @Test
