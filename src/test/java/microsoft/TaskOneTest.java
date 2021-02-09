@@ -4,7 +4,7 @@ import common.TreeNode;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class SolutionTest {
+public class TaskOneTest {
 
     @Test
     public void testingFirstTest() {

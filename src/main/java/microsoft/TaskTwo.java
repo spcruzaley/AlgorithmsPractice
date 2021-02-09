@@ -10,6 +10,8 @@ public class TaskTwo {
      *              traverse all the array in order to generate the final word.
      * Space: O(N+M) where N refers to the elements in array A, M refers to the S length.
      *
+     * See (src/test/java/microsoft/TaskTwoTest.java) for test cases
+     *
      * @param S
      * @param A
      * @return
