@@ -19,4 +19,14 @@ public class BinaryTreeWithLevelsTest {
         Assert.assertEquals(expectedNestedList, actualNestedList.toString());
     }
 
+    @Test
+    public void testBSTToNestedListWithDFS() {
+        String expectedNestedList = "[[3], [9, 20], [11, 15, 7], [1, 1]]";
+
+        TreeNode treeNode = Utils.generateTreeNode(new Integer[]{3,9,20,11,null,15,7,1,1});
+        List<List<Integer>> actualNestedList = BinaryTreeWithLevels.BSTToNestedListWithDFS(treeNode);
+
+        Assert.assertEquals(expectedNestedList, actualNestedList.toString());
+    }
+
 }
