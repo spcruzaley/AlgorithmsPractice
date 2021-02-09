@@ -40,3 +40,10 @@
 
 * Miscellaneous
     * [Prints binary tree node and level](src/main/java/misc/BinaryTreeWithLevels.java)
+
+## Companies
+
+* Microsoft
+    * [Visible nodes](src/main/java/microsoft/TaskOne.java)
+    * [Find the word](src/main/java/microsoft/TaskTwo.java)
+    * [Sum to zero](src/main/java/microsoft/TaskThree.java)
