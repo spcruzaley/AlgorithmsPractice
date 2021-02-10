@@ -29,6 +29,7 @@
     * [Binary Tree Zigzag Level Order Traversal](src/main/java/leetcode/premium/microsoft/BinaryTreeZigzagLevelOrderTraversal.java)
     * [Reverse LinkedList](src/main/java/leetcode/premium/microsoft/linkedlist/ReverseLinkedList.java)
     * [Add Two Numbers](src/main/java/leetcode/premium/microsoft/linkedlist/AddTwoNumbers.java)
+    * [Merge k Sorted Lists](src/main/java/leetcode/premium/microsoft/linkedlist/MergeKSortedLists.java)
 
 * CodeSignal
     * [Box Blur](src/main/java/codesignal/boxblur/method1/)

@@ -108,4 +108,18 @@ public class Utils {
 
         return builder.toString();
     }
+
+    public static ListNode generateListNode(Integer[] values) {
+        return generateListNode(values, 0);
+    }
+
+    private static ListNode generateListNode(Integer[] values, int index) {
+        if(index == values.length)
+            return null;
+
+        ListNode listNode = new ListNode(values[index]);
+        listNode.next = generateListNode(values, index + 1);
+
+        return listNode;
+    }
 }
