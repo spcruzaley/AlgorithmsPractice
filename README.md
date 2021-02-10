@@ -19,17 +19,25 @@
 ## Platforms
 
 * LeetCode
-    * [Two-Sum](src/main/java/leetcode/twosum/)
-    * [Maximum Subarray](src/main/java/leetcode/maximumsubarray/)
-    * [Move Zeroes](src/main/java/leetcode/movezeroes/)
-    * [Rotate Array](src/main/java/leetcode/rotatearray/)
-    * [Contains Duplicate](src/main/java/leetcode/containsduplicate/)
-    * [Validate a Binary Search Tree](src/main/java/leetcode/premium/microsoft/ValidateBinarySearchTree.java)
-    * [Binary Tree InOrder Traversal](src/main/java/leetcode/premium/microsoft/BinaryTreeLevelOrderTraversal.java)
-    * [Binary Tree Zigzag Level Order Traversal](src/main/java/leetcode/premium/microsoft/BinaryTreeZigzagLevelOrderTraversal.java)
-    * [Reverse LinkedList](src/main/java/leetcode/premium/microsoft/linkedlist/ReverseLinkedList.java)
-    * [Add Two Numbers](src/main/java/leetcode/premium/microsoft/linkedlist/AddTwoNumbers.java)
-    * [Merge k Sorted Lists](src/main/java/leetcode/premium/microsoft/linkedlist/MergeKSortedLists.java)
+    * **Miscellaneous**
+        * [Two-Sum](src/main/java/leetcode/twosum/) | [Test cases](src/test/java/leetcode/twosum/)
+        * [Maximum Subarray](src/main/java/leetcode/maximumsubarray/) | [Test cases](src/test/java/leetcode/maximumsubarray/)
+        * [Move Zeroes](src/main/java/leetcode/movezeroes/) | [Test cases](src/test/java/leetcode/movezeroes/)
+        * [Contains Duplicate](src/main/java/leetcode/containsduplicate/) | [Test cases](src/test/java/leetcode/containsduplicate/)
+    
+    * **Trees and Graphs**
+        * [Validate a Binary Search Tree](src/main/java/leetcode/premium/microsoft/ValidateBinarySearchTree.java) | [Test cases](src/test/java/leetcode/premium/microsoft/ValidateBinarySearchTreeTest.java)
+        * [Binary Tree InOrder Traversal](src/main/java/leetcode/premium/microsoft/BinaryTreeLevelOrderTraversal.java) | [Test cases](src/test/java/leetcode/premium/microsoft/BinaryTreeLevelOrderTraversalTest.java)
+        * [Binary Tree Zigzag Level Order Traversal](src/main/java/leetcode/premium/microsoft/BinaryTreeZigzagLevelOrderTraversal.java) | [Test cases](src/test/java/leetcode/premium/microsoft/BinaryTreeZigzagLevelOrderTraversalTest.java)
+    
+    * **Linked Lists**
+        * [Reverse LinkedList](src/main/java/leetcode/premium/microsoft/linkedlist/ReverseLinkedList.java) | [Test cases](src/test/java/leetcode/premium/microsoft/linkedlist/ReverseLinkedListTest.java)
+        * [Add Two Numbers](src/main/java/leetcode/premium/microsoft/linkedlist/AddTwoNumbers.java) | [Test cases](src/test/java/leetcode/premium/microsoft/linkedlist/AddTwoNumbersTest.java)
+        * [Merge k Sorted Lists](src/main/java/leetcode/premium/microsoft/linkedlist/MergeKSortedLists.java) | [Test cases](src/test/java/leetcode/premium/microsoft/linkedlist/MergeKSortedListsTest.java)
+    
+    * **Arrays and Strings**
+        * [Rotate Array](src/main/java/leetcode/rotatearray/) | [Test cases](src/test/java/leetcode/rotatearray/)
+        * [Valid Palindrome](src/main/java/leetcode/premium/microsoft/linkedlist/MergeKSortedLists.java) | [Test cases](src/test/java/leetcode/premium/microsoft/linkedlist/MergeKSortedListsTest.java)
 
 * CodeSignal
     * [Box Blur](src/main/java/codesignal/boxblur/method1/)
@@ -47,6 +55,6 @@
 ## Companies
 
 * Microsoft
-    * [Visible nodes](src/main/java/microsoft/TaskOne.java)
-    * [Find the word](src/main/java/microsoft/TaskTwo.java)
-    * [Sum to zero](src/main/java/microsoft/TaskThree.java)
+    * [Visible nodes](src/main/java/microsoft/TaskOne.java) | [Test cases](src/test/java/microsoft/TaskOneTest.java)
+    * [Find the word](src/main/java/microsoft/TaskTwo.java) | [Test cases](src/test/java/microsoft/TaskTwoTest.java)
+    * [Sum to zero](src/main/java/microsoft/TaskThree.java) | [Test cases](src/test/java/microsoft/TaskThreeTest.java)
