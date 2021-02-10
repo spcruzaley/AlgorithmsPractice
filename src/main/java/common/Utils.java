@@ -93,4 +93,19 @@ public class Utils {
                 q.add(node.right);
         }
     }
+
+    public static String printListNode(ListNode listNode) {
+        if(listNode == null)
+            return "";
+
+        StringBuilder builder = new StringBuilder();
+
+        while(listNode.next != null) {
+            builder.append(listNode.val).append("-");
+            listNode = listNode.next;
+        }
+        builder.append(listNode.val);
+
+        return builder.toString();
+    }
 }

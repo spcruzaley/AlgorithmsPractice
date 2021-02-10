@@ -27,6 +27,8 @@
     * [Validate a Binary Search Tree](src/main/java/leetcode/premium/microsoft/ValidateBinarySearchTree.java)
     * [Binary Tree InOrder Traversal](src/main/java/leetcode/premium/microsoft/BinaryTreeLevelOrderTraversal.java)
     * [Binary Tree Zigzag Level Order Traversal](src/main/java/leetcode/premium/microsoft/BinaryTreeZigzagLevelOrderTraversal.java)
+    * [Reverse LinkedList](src/main/java/leetcode/premium/microsoft/linkedlist/ReverseLinkedList.java)
+    * [Add Two Numbers](src/main/java/leetcode/premium/microsoft/linkedlist/AddTwoNumbers.java)
 
 * CodeSignal
     * [Box Blur](src/main/java/codesignal/boxblur/method1/)

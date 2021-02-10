@@ -1,6 +1,7 @@
 package leetcode.premium.microsoft.linkedlist;
 
 import common.ListNode;
+import common.Utils;
 import org.junit.Assert;
 import org.junit.Test;
 
@@ -17,19 +18,7 @@ public class ReverseLinkedListTest {
         listNode.next.next.next.next = new ListNode(5);
         ListNode actualListNode = ReverseLinkedList.reverseList(listNode);
 
-        Assert.assertEquals(expectedListNode, printListNode(actualListNode));
-    }
-
-    public String printListNode(ListNode listNode) {
-        StringBuilder builder = new StringBuilder();
-
-        while(listNode.next != null) {
-            builder.append(listNode.val).append("-");
-            listNode = listNode.next;
-        }
-        builder.append(listNode.val);
-
-        return builder.toString();
+        Assert.assertEquals(expectedListNode, Utils.printListNode(actualListNode));
     }
 
 }
