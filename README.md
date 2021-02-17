@@ -38,7 +38,8 @@
     * **Arrays and Strings**
         * [Rotate Array](src/main/java/leetcode/rotatearray/) | [Test cases](src/test/java/leetcode/rotatearray/)
         * [Valid Palindrome](src/main/java/leetcode/premium/microsoft/arraysstrings/ValidPalindrome.java) | [Test cases](src/test/java/leetcode/premium/microsoft/arraysstrings/ValidPalindromeTest.java)
-        * [Reverse Words in a String](src/main/java/leetcode/premium/microsoft/arraysstrings/)
+        * [Reverse Words in a String](src/main/java/leetcode/premium/microsoft/arraysstrings/reversewordsinstring)
+        * [Reverse Words in a String II](src/main/java/leetcode/premium/microsoft/arraysstrings/)
 
 * CodeSignal
     * [Box Blur](src/main/java/codesignal/boxblur/method1/)
