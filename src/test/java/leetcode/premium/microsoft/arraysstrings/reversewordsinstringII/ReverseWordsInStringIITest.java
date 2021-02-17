@@ -48,7 +48,7 @@ public class ReverseWordsInStringIITest {
 
     @Test
     public void testGetSpacesIndex() {
-        int[] expectedSpacesIndex = {3,7,10};
+        int[] expectedSpacesIndex = {3,7,10,15};
 
         char[] inputWord = {'t','h','e',' ','s','k','y',' ','i','s',' ','b','l','u','e'};
         int[] actualSpacesIndex = ReverseWordsInStringII.getSpacesIndex(inputWord);
