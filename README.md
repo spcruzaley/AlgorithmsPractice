@@ -3,18 +3,15 @@
 ## Sorting algorithms implementation 
 
 * Bubble sort
-    * [Implementation cases](src/main/java/sorting/bubblesort/)
-    * [Test cases](src/test/java/sorting/bubblesort/)
+    * [Implementation cases](src/main/java/sorting/bubblesort/) | [Test cases](src/test/java/sorting/bubblesort/)
 * Insertion Sort (*Pending*)
 * Selection Sort (*Pending*)
 * Three Number Sort (*Pending*)
 * Quick Sort
-    * [Implementation cases](src/main/java/sorting/quicksort/)
-    * [Test cases](src/test/java/sorting/quicksort/)
+    * [Implementation cases](src/main/java/sorting/quicksort/) | [Test cases](src/test/java/sorting/quicksort/)
 * Heap Sort (*Pending*)
 * Merge Sort
-    * [Implementation cases](src/main/java/sorting/mergesort/)
-    * [Test cases](src/test/java/sorting/mergesort/)
+    * [Implementation cases](src/main/java/sorting/mergesort/) | [Test cases](src/test/java/sorting/mergesort/)
 
 ## Platforms
 
@@ -42,18 +39,18 @@
         * [Reverse Words in a String II](src/main/java/leetcode/premium/microsoft/arraysstrings/) | [Test cases](src/test/java/leetcode/premium/microsoft/arraysstrings/reversewordsinstringII/ReverseWordsInStringIITest.java)
 
 * CodeSignal
-    * [Box Blur](src/main/java/codesignal/boxblur/method1/)
-    * [Minesweeper](src/main/java/codesignal/minesweeper/)
-    * [Array Replace](src/main/java/codesignal/arrayreplace/)
+    * [Box Blur](src/main/java/codesignal/boxblur/method1/) | [Test cases](src/test/java/codesignal/boxblur/method1/BoxBlurTest.java)
+    * [Minesweeper](src/main/java/codesignal/minesweeper/) | [Test cases](src/test/java/codesignal/minesweeper/)
+    * [Array Replace](src/main/java/codesignal/arrayreplace/) | [Test cases](src/test/java/codesignal/arrayreplace/)
 
 * Codility
-    * [Smallest Positive Integer](src/main/java/codility/smallestpositiveinteger/method2/)
+    * [Smallest Positive Integer](src/main/java/codility/smallestpositiveinteger/method2/) | [Test cases](src/test/java/codility/smallestpositiveinteger/method2/SmallestPositiveIntegerTest.java)
 
 ## Others
 
 * Miscellaneous
-    * [Prints binary tree node and level](src/main/java/misc/BinaryTreeWithLevels.java)
-    * [BST Construction](src/main/java/misc/treesandgraphs/bstconstruction)
+    * [Prints binary tree node and level](src/main/java/misc/BinaryTreeWithLevels.java) | [Test cases](src/test/java/misc/BinaryTreeWithLevelsTest.java)
+    * [BST Construction](src/main/java/misc/treesandgraphs/bstconstruction) | [Test cases](src/test/java/misc/treesandgraphs/bstconstruction/)
 
 ## Companies
 
