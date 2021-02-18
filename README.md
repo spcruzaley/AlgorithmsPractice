@@ -71,8 +71,9 @@ All challenges has an indicator about the difficult level:
     * [Search first node with true](src/main/java/microsoft/onsite/TreeSibling.java) | [Test cases](src/test/java/microsoft/onsite/TreeSiblingTest.java)
 
 
-#Difficult icons link
-[easy]: src/main/resources/easy.png "Easy"
-[medium]: src/main/resources/medium.png "Medium"
-[hard]: src/main/resources/hard.png "Hard"
-[unknown]: src/main/resources/unknown.png "Unknown"
+[//]: # (Reference links used in the file. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+
+[easy]: <src/main/resources/easy.png> "Easy"
+[medium]: <src/main/resources/medium.png> "Medium"
+[hard]: <src/main/resources/hard.png> "Hard"
+[unknown]: <src/main/resources/unknown.png> "Unknown"
