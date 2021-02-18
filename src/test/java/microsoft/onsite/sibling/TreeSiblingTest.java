@@ -1,4 +1,4 @@
-package microsoft.onsite;
+package microsoft.onsite.sibling;
 
 import org.junit.Test;
 

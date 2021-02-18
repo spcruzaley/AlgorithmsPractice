@@ -6,6 +6,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Predicate;
 
+/**
+ * TODO: Description pending, due to this problem was part of the first filter for Microsoft hiring process
+ */
 public class TaskOne {
 
     /**

@@ -3,6 +3,9 @@ package microsoft;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * TODO: Description pending, due to this problem was part of the first filter for Microsoft hiring process
+ */
 public class TaskTwo {
 
     /**
