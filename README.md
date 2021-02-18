@@ -12,8 +12,7 @@ All challenges has an indicator about the difficult level:
 ## Sorting algorithms implementation 
 
 * Bubble sort
-    * ![][easy] [Implementation cases](src/main/java/sorting/bubblesort/) | [Test cases](src/test/java/sorting/bubblesort/)
-    * ![easy] [Implementation cases](src/main/java/sorting/bubblesort/) | [Test cases](src/test/java/sorting/bubblesort/)
+  * [![easy] Implementation cases](src/main/java/sorting/bubblesort/) | [Test cases](src/test/java/sorting/bubblesort/)
 * Insertion Sort (*Pending*)
 * Selection Sort (*Pending*)
 * Three Number Sort (*Pending*)
