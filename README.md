@@ -1,24 +1,19 @@
 # Algorithms Practice
 
+All the challenges are classified by Platform (*Leetcode, Hackerrank, etc.*), Companies (*Microsoft, Google, etc*) and Miscellaneous (*Challenge invented by me or someone else*).
+
+All challenges has an indicator about the difficult level:
+
+![easy] For **easy** challenges.<br />
+![medium] For **Medium** challenges.<br />
+![hard] For **Hard** challenges.<br />
+![unknown] In case the difficulty it's **unknown**.<br />
+
 ## Sorting algorithms implementation 
 
-1.- ![Image 2](src/main/resources/easy.png){:class="img-responsive"}<br />
-2.- ![Image 3](src/main/resources/easy.png){:width="25%"}<br />
-3.- ![Image 4](src/main/resources/easy.png){:width="25px"}<br />
-<br />
-4.- ![](src/main/resources/easy.png | width=100)<br />
-5.- ![](src/main/resources/easy.png | =25x25)<br />
-6.- ![](src/main/resources/easy.png | width=25px)<br />
-6.- ![](src/main/resources/easy.png | width=25x)<br />
-<br />
-7.- [[src/main/resources/easy.png|width=25px]]
-8.- ![[src/main/resources/easy.png|width=25px]]
-<br />
-9.- [[https://raw.githubusercontent.com/spcruzaley/AlgorithmsPractice/develop/src/main/resources/easy.png|width=25px]]
-10.- ![[https://raw.githubusercontent.com/spcruzaley/AlgorithmsPractice/develop/src/main/resources/easy.png|width=25px]]
-
 * Bubble sort
-    * <img src="src/main/resources/easy.png" style="width:25px;vertical-align:middle" /> [Implementation cases](src/main/java/sorting/bubblesort/) | [Test cases](src/test/java/sorting/bubblesort/)
+    * ![][easy] [Implementation cases](src/main/java/sorting/bubblesort/) | [Test cases](src/test/java/sorting/bubblesort/)
+    * ![easy] [Implementation cases](src/main/java/sorting/bubblesort/) | [Test cases](src/test/java/sorting/bubblesort/)
 * Insertion Sort (*Pending*)
 * Selection Sort (*Pending*)
 * Three Number Sort (*Pending*)
@@ -74,3 +69,10 @@
     * [Find the word](src/main/java/microsoft/TaskTwo.java) | [Test cases](src/test/java/microsoft/TaskTwoTest.java)
     * [Sum to zero](src/main/java/microsoft/TaskThree.java) | [Test cases](src/test/java/microsoft/TaskThreeTest.java)
     * [Search first node with true](src/main/java/microsoft/onsite/TreeSibling.java) | [Test cases](src/test/java/microsoft/onsite/TreeSiblingTest.java)
+
+
+#Difficult icons link
+[easy]: src/main/resources/easy.png "Easy"
+[medium]: src/main/resources/medium.png "Medium"
+[hard]: src/main/resources/hard.png "Hard"
+[unknown]: src/main/resources/unknown.png "Unknown"
