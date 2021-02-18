@@ -8,7 +8,7 @@ import java.util.stream.IntStream;
 public class SmallestPositiveInteger {
 
     /**
-     * TODO Investigate how to determine the complexity
+     * TODO Investigate how to determine the complexity as I used Java 8 features
      *
      * Solution using Java8 mostly.
      *  Complexity: ¿?
