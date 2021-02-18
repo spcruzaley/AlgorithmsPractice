@@ -2,12 +2,23 @@
 
 ## Sorting algorithms implementation 
 
-0.- <img src="https://github.com/spcruzaley/AlgorithmsPractice/blob/develop/src/main/resources/easy.png" /><br />
-1.- <img src="src/main/resources/easy.png" /><br />
+1.- ![Image 2](src/main/resources/easy.png){:class="img-responsive"}<br />
+2.- ![Image 3](src/main/resources/easy.png){:width="25%"}<br />
+3.- ![Image 4](src/main/resources/easy.png){:width="25px"}<br />
 <br />
+4.- ![](src/main/resources/easy.png | width=100)<br />
+5.- ![](src/main/resources/easy.png | =25x25)<br />
+6.- ![](src/main/resources/easy.png | width=25px)<br />
+6.- ![](src/main/resources/easy.png | width=25x)<br />
+<br />
+7.- [[src/main/resources/easy.png|width=25px]]
+8.- ![[src/main/resources/easy.png|width=25px]]
+<br />
+9.- [[https://raw.githubusercontent.com/spcruzaley/AlgorithmsPractice/develop/src/main/resources/easy.png|width=25px]]
+10.- ![[https://raw.githubusercontent.com/spcruzaley/AlgorithmsPractice/develop/src/main/resources/easy.png|width=25px]]
 
 * Bubble sort
-    * <img src="src/main/resources/easy.png" width="25px;" /> [Implementation cases](src/main/java/sorting/bubblesort/) | [Test cases](src/test/java/sorting/bubblesort/)
+    * <img src="src/main/resources/easy.png" style="width:25px;vertical-align:middle" /> [Implementation cases](src/main/java/sorting/bubblesort/) | [Test cases](src/test/java/sorting/bubblesort/)
 * Insertion Sort (*Pending*)
 * Selection Sort (*Pending*)
 * Three Number Sort (*Pending*)
