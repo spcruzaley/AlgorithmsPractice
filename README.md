@@ -2,14 +2,12 @@
 
 ## Sorting algorithms implementation 
 
+0.- <img src="https://github.com/spcruzaley/AlgorithmsPractice/blob/develop/src/main/resources/easy.png" /><br />
 1.- <img src="src/main/resources/easy.png" /><br />
-2.- <img src="main/resources/easy.png" /><br />
-4.- <img src="resources/easy.png" /><br />
-5.- <img src="easy.png" /><br />
 <br />
 
 * Bubble sort
-    * [Implementation cases](src/main/java/sorting/bubblesort/) | [Test cases](src/test/java/sorting/bubblesort/)
+    * <img src="src/main/resources/easy.png" width="25px;" /> [Implementation cases](src/main/java/sorting/bubblesort/) | [Test cases](src/test/java/sorting/bubblesort/)
 * Insertion Sort (*Pending*)
 * Selection Sort (*Pending*)
 * Three Number Sort (*Pending*)
