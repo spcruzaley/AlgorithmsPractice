@@ -53,6 +53,7 @@
 
 * Miscellaneous
     * [Prints binary tree node and level](src/main/java/misc/BinaryTreeWithLevels.java)
+    * [BST Construction](src/main/java/misc/treesandgraphs/bstconstruction)
 
 ## Companies
 
