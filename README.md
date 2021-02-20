@@ -71,7 +71,10 @@ All challenges has an indicator about the difficult level:
     * [![medium] Search first node with true](src/main/java/microsoft/onsite/sibling/TreeSibling.java) | [Test cases](src/test/java/microsoft/onsite/TreeSiblingTest.java)
 
 * Facebook
-    * [![easy] Pair Sums](src/main/java/facebook/interviewpreparation/hashtables/pairsums/) | [Test cases](src/test/java/facebook/interviewpreparation/hashtables/pairsums/)
+    * Hash Tables
+        * [![easy] Pair Sums](src/main/java/facebook/interviewpreparation/hashtables/pairsums/) | [Test cases](src/test/java/facebook/interviewpreparation/hashtables/pairsums/)    
+    * Arrays    
+        * [![easy] Reverse to Make Equal](src/main/java/facebook/interviewpreparation/arrays/areequals/) | [Test cases](src/test/java/facebook/interviewpreparation/arrays/areequals/)
 
 [//]: # (Reference links used in the file. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
