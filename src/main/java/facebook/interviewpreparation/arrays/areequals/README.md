@@ -31,9 +31,9 @@ After reversing the subarray of `B` from indices 1 to 3, array `B` will equal ar
 
 ### The possible
 
-* [First approach](method1/PairSums.java)
-    * [Test cases](../../../../../java/facebook/interviewpreparation/hashtables/pairsums/method1/PairSums.java)
-* [Second approach](method2/PairSums.java)
-  * [Test cases](../../../../../java/facebook/interviewpreparation/hashtables/pairsums/method2/PairSums.java)
+* [First approach](method1/ReverseToMakeEqual.java)
+    * [Test cases](../../../../../java/facebook/interviewpreparation/arrays/areequals/method1/ReverseToMakeEqual.java)
+* [Second approach](method2/ReverseToMakeEqual.java)
+  * [Test cases](../../../../../java/facebook/interviewpreparation/arrays/areequals/method2/ReverseToMakeEqual.java)
 
 > *NOTE: The approaches are base on my own knowledge and don't be taken as a final solution, it can or can't be the most efficient, If you have a better solution I encourage you to send me it if you want, to add it to the repository.*
