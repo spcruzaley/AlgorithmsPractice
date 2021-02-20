@@ -70,6 +70,8 @@ All challenges has an indicator about the difficult level:
     * [![easy] Sum to zero](src/main/java/microsoft/TaskThree.java) | [Test cases](src/test/java/microsoft/TaskThreeTest.java)
     * [![medium] Search first node with true](src/main/java/microsoft/onsite/sibling/TreeSibling.java) | [Test cases](src/test/java/microsoft/onsite/TreeSiblingTest.java)
 
+* Facebook
+    * [![easy] Pair Sums](src/main/java/facebook/interviewpreparation/hashtables/pairsums/) | [Test cases](src/test/java/facebook/interviewpreparation/hashtables/pairsums/)
 
 [//]: # (Reference links used in the file. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
