@@ -75,6 +75,8 @@ All challenges has an indicator about the difficult level:
         * [![easy] Pair Sums](src/main/java/facebook/interviewpreparation/hashtables/pairsums/) | [Test cases](src/test/java/facebook/interviewpreparation/hashtables/pairsums/)    
     * Arrays    
         * [![easy] Reverse to Make Equal](src/main/java/facebook/interviewpreparation/arrays/areequals/) | [Test cases](src/test/java/facebook/interviewpreparation/arrays/areequals/)
+    * Strings
+        * [![medium] Rotational Cipher](src/main/java/facebook/interviewpreparation/strings/rotationalcipher/) | [Test cases](src/test/java/facebook/interviewpreparation/strings/rotationalcipher/)
 
 [//]: # (Reference links used in the file. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
