@@ -2,6 +2,14 @@ package facebook.interviewpreparation.strings.rotationalcipher;
 
 public class RotationalCipher {
 
+    /**
+     * Complexity: O(N)
+     * Space: O(N), due to I'm using StringBuilder to store the final cipher String
+     *
+     * @param input
+     * @param rotationFactor
+     * @return
+     */
     public String rotationalCipher(String input, int rotationFactor) {
         char[] chars = input.toCharArray();
         StringBuilder builder = new StringBuilder();
