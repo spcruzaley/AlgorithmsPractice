@@ -15,31 +15,27 @@ public class AverageByLevel {
      * @return
      */
     public static int[] getAveragesByLevel(TreeNode tree) {
-        List<List<Integer>> listOfLevels = new ArrayList<>();
+        List<Integer[]> listOfLevels = new ArrayList<>();
         getAveragesByLevel(tree, listOfLevels, 0);
 
         int[] output = new int[listOfLevels.size()];
         for (int i = 0; i < listOfLevels.size(); i++) {
-            int sum = 0;
-            for (int j = 0; j < listOfLevels.get(i).size(); j++) {
-                sum += listOfLevels.get(i).get(j);
-            }
-            output[i] = sum / listOfLevels.get(i).size();
+            Integer[] sumAndElements = listOfLevels.get(i);
+            output[i] = sumAndElements[0] / sumAndElements[1];
         }
 
         return output;
     }
 
-    private static void getAveragesByLevel(TreeNode node, List<List<Integer>> listOfLevels, int currentLevel) {
+    private static void getAveragesByLevel(TreeNode node, List<Integer[]> listOfLevels, int currentLevel) {
         if(node == null)
             return;
 
         if(listOfLevels.size() == currentLevel) {
-            List<Integer> elementsByLevel = new ArrayList<>();
-            elementsByLevel.add(node.val);
-            listOfLevels.add(elementsByLevel);
+            listOfLevels.add(new Integer[]{node.val, 1});
         } else {
-            listOfLevels.get(currentLevel).add(node.val);
+            listOfLevels.get(currentLevel)[0] += node.val;
+            listOfLevels.get(currentLevel)[1] += 1;
         }
 
         getAveragesByLevel(node.left, listOfLevels, currentLevel + 1);
