@@ -59,6 +59,7 @@ All challenges has an indicator about the difficult level:
 ## Others
 
 * Miscellaneous
+  * Trees & Graphs
     * [![medium] Prints binary tree node and level](src/main/java/misc/BinaryTreeWithLevels.java) | [Test cases](src/test/java/misc/BinaryTreeWithLevelsTest.java)
     * [![medium] BST Construction](src/main/java/misc/treesandgraphs/bstconstruction) | [Test cases](src/test/java/misc/treesandgraphs/bstconstruction/)
     * [![easy] Average by Level](src/main/java/misc/treesandgraphs/averagebylevel) | [Test cases](src/test/java/misc/treesandgraphs/averagebylevel/)
