@@ -7,6 +7,13 @@ public class ContiguousSubarrays {
     public static BiPredicate<Integer, Integer> leftValidation = (index, boundary) -> index >= boundary;
     public static BiPredicate<Integer, Integer> rightValidation = (index, boundary) -> index < boundary;
 
+    /**
+     * Complexity: O(N)
+     * Space: O(N)
+     *
+     * @param arr
+     * @return
+     */
     public static int[] countSubarrays(int[] arr) {
         int[] results = new int[arr.length];
 
