@@ -18,7 +18,7 @@ All challenges has an indicator about the difficult level:
 * Selection Sort (*Pending*)
 * Three Number Sort (*Pending*)
 * Quick Sort
-    * [![hard] Implementation cases](src/main/java/sorting/quicksort/) | [Test cases](src/test/java/sorting/quicksort/)
+    * [![hard] Implementation cases](src/main/java/sorting/quicksort/) | [Test cases](src/test/java/sorting/quicksort/QuickSortTest.java)
 * Heap Sort (*Pending*)
 * Merge Sort
     * [![very-hard] Implementation cases](src/main/java/sorting/mergesort/) | [Test cases](src/test/java/sorting/mergesort/)
@@ -45,8 +45,8 @@ All challenges has an indicator about the difficult level:
     * **Arrays and Strings**
         * [![medium] Rotate Array](src/main/java/leetcode/rotatearray/) | [Test cases](src/test/java/leetcode/rotatearray/)
         * [![easy] Valid Palindrome](src/main/java/leetcode/premium/microsoft/arraysstrings/ValidPalindrome.java) | [Test cases](src/test/java/leetcode/premium/microsoft/arraysstrings/ValidPalindromeTest.java)
-        * [![medium] Reverse Words in a String](src/main/java/leetcode/premium/microsoft/arraysstrings/reversewordsinstring) | [Test cases](src/test/java/leetcode/premium/microsoft/arraysstrings/reversewordsinstring/)
-        * [![medium] Reverse Words in a String II](src/main/java/leetcode/premium/microsoft/arraysstrings/) | [Test cases](src/test/java/leetcode/premium/microsoft/arraysstrings/reversewordsinstringII/ReverseWordsInStringIITest.java)
+        * [![medium] Reverse Words in a String](src/main/java/leetcode/premium/microsoft/arraysstrings/reversewordsinstring/) | [Test cases](src/test/java/leetcode/premium/microsoft/arraysstrings/reversewordsinstring/)
+        * [![medium] Reverse Words in a String II](src/main/java/leetcode/premium/microsoft/arraysstrings/reversewordsinstringII/) | [Test cases](src/test/java/leetcode/premium/microsoft/arraysstrings/reversewordsinstringII/ReverseWordsInStringIITest.java)
 
 * CodeSignal
     * [![medium] Box Blur](src/main/java/codesignal/boxblur/method1/) | [Test cases](src/test/java/codesignal/boxblur/method1/BoxBlurTest.java)
@@ -70,7 +70,7 @@ All challenges has an indicator about the difficult level:
     * [![easy] Visible nodes](src/main/java/microsoft/TaskOne.java) | [Test cases](src/test/java/microsoft/TaskOneTest.java)
     * [![medium] Find the word](src/main/java/microsoft/TaskTwo.java) | [Test cases](src/test/java/microsoft/TaskTwoTest.java)
     * [![easy] Sum to zero](src/main/java/microsoft/TaskThree.java) | [Test cases](src/test/java/microsoft/TaskThreeTest.java)
-    * [![medium] Search first node with true](src/main/java/microsoft/onsite/sibling/TreeSibling.java) | [Test cases](src/test/java/microsoft/onsite/TreeSiblingTest.java)
+    * [![medium] Search first node with true](src/main/java/microsoft/onsite/sibling/TreeSibling.java) | [Test cases](src/test/java/microsoft/onsite/sibling/TreeSiblingTest.java)
 
 
 * Facebook (_The following exercises are in facebook recruiting portal, to help with  prepare to the first hiring process_)
