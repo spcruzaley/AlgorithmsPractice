@@ -72,16 +72,19 @@ All challenges has an indicator about the difficult level:
     * [![easy] Sum to zero](src/main/java/microsoft/TaskThree.java) | [Test cases](src/test/java/microsoft/TaskThreeTest.java)
     * [![medium] Search first node with true](src/main/java/microsoft/onsite/sibling/TreeSibling.java) | [Test cases](src/test/java/microsoft/onsite/TreeSiblingTest.java)
 
-* Facebook
+
+* Facebook (_The following exercises are in facebook recruiting portal, to help with  prepare to the first hiring process_)
     * Hash Tables
-        * [![easy] Pair Sums](src/main/java/facebook/interviewpreparation/hashtables/pairsums/) | [Test cases](src/test/java/facebook/interviewpreparation/hashtables/pairsums/)    
+        * [![easy] Pair Sums](src/main/java/facebook/interviewpreparation/hashtables/pairsums/) | [Test cases](src/test/java/facebook/interviewpreparation/hashtables/pairsums/)
     * Arrays    
         * [![easy] Reverse to Make Equal](src/main/java/facebook/interviewpreparation/arrays/areequals/) | [Test cases](src/test/java/facebook/interviewpreparation/arrays/areequals/)
-        * [![easy] Contiguous Subarrays](src/main/java/facebook/interviewpreparation/arrays/contiguoussubarrays/) | [Test cases](src/test/java/facebook/interviewpreparation/arrays/contiguoussubarrays/)
+        * [![easy] Contiguous Subarrays](src/main/java/facebook/interviewpreparation/arrays/contiguoussubarrays/) | [Test cases](src/test/java/facebook/interviewpreparation/arrays/contiguoussubarrays/ContiguousSubarraysTest.java)
     * Strings
-        * [![medium] Rotational Cipher](src/main/java/facebook/interviewpreparation/strings/rotationalcipher/) | [Test cases](src/test/java/facebook/interviewpreparation/strings/rotationalcipher/)
+        * [![medium] Rotational Cipher](src/main/java/facebook/interviewpreparation/strings/rotationalcipher/) | [Test cases](src/test/java/facebook/interviewpreparation/strings/rotationalcipher/RotationalCipherTest.java)
     * Linked Lists
         * [![hard] Reverse Operations](src/main/java/facebook/interviewpreparation/linkedlists/reverseoperations/) | [Test cases](src/test/java/facebook/interviewpreparation/linkedlists/reverseoperations/ReverseOperationsTest.java)
+    * Timed exercices (_Exercises with 20 minutes to solve it_)
+        * [![easy] Answer a Query](src/main/java/facebook/interviewpreparation/timed/queries) | [Test cases](src/test/java/facebook/interviewpreparation/timed/queries/QueriesTest.java)
 
 [//]: # (Reference links used in the file. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
