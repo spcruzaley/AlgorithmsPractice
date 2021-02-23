@@ -75,6 +75,7 @@ All challenges has an indicator about the difficult level:
         * [![easy] Pair Sums](src/main/java/facebook/interviewpreparation/hashtables/pairsums/) | [Test cases](src/test/java/facebook/interviewpreparation/hashtables/pairsums/)    
     * Arrays    
         * [![easy] Reverse to Make Equal](src/main/java/facebook/interviewpreparation/arrays/areequals/) | [Test cases](src/test/java/facebook/interviewpreparation/arrays/areequals/)
+        * [![easy] Contiguous Subarrays](src/main/java/facebook/interviewpreparation/arrays/contiguoussubarrays/) | [Test cases](src/test/java/facebook/interviewpreparation/arrays/contiguoussubarrays/)
     * Strings
         * [![medium] Rotational Cipher](src/main/java/facebook/interviewpreparation/strings/rotationalcipher/) | [Test cases](src/test/java/facebook/interviewpreparation/strings/rotationalcipher/)
     * Linked Lists
