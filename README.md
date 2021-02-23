@@ -83,6 +83,8 @@ All challenges has an indicator about the difficult level:
         * [![medium] Rotational Cipher](src/main/java/facebook/interviewpreparation/strings/rotationalcipher/) | [Test cases](src/test/java/facebook/interviewpreparation/strings/rotationalcipher/RotationalCipherTest.java)
     * Linked Lists
         * [![hard] Reverse Operations](src/main/java/facebook/interviewpreparation/linkedlists/reverseoperations/) | [Test cases](src/test/java/facebook/interviewpreparation/linkedlists/reverseoperations/ReverseOperationsTest.java)
+    * Stacks
+        * [![easy] Balance Brackets](src/main/java/facebook/interviewpreparation/stacks/BalanceBrackets.java) | [Test cases](src/test/java/facebook/interviewpreparation/stacks/BalanceBracketsTest.java)
     * Timed exercices (_Exercises with 20 minutes to solve it_)
         * [![easy] Answer a Query](src/main/java/facebook/interviewpreparation/timed/queries) | [Test cases](src/test/java/facebook/interviewpreparation/timed/queries/QueriesTest.java)
 
