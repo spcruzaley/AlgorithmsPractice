@@ -77,6 +77,8 @@ All challenges has an indicator about the difficult level:
         * [![easy] Reverse to Make Equal](src/main/java/facebook/interviewpreparation/arrays/areequals/) | [Test cases](src/test/java/facebook/interviewpreparation/arrays/areequals/)
     * Strings
         * [![medium] Rotational Cipher](src/main/java/facebook/interviewpreparation/strings/rotationalcipher/) | [Test cases](src/test/java/facebook/interviewpreparation/strings/rotationalcipher/)
+    * Linked Lists
+        * [![hard] Reverse Operations](src/main/java/facebook/interviewpreparation/linkedlists/reverseoperations/) | [Test cases](src/test/java/facebook/interviewpreparation/linkedlists/reverseoperations/ReverseOperationsTest.java)
 
 [//]: # (Reference links used in the file. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
