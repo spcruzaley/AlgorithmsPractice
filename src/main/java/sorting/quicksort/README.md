@@ -7,4 +7,4 @@ This is an algorithm that uses recursion, it works like a binary search tree, we
 
 ![Merge Sort Simulation](quick-example.gif)
 
-*Source: https://en.wikipedia.org/wiki/Quicksort* 
+_Source: [Wikipedia](https://en.wikipedia.org/wiki/Quicksort)_

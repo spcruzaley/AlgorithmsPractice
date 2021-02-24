@@ -12,4 +12,4 @@ Commonly this algorithm its made ***in place*** (**The input array will be updat
 
 ![Merge Sort Simulation](bubble-example.gif)
 
-*Source: https://en.wikipedia.org/wiki/Bubble_sort* 
+_Source: [Wikipedia](https://en.wikipedia.org/wiki/Bubble_sort)_

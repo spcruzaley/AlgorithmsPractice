@@ -11,4 +11,4 @@ The other case don't, it returns a new sorted array, the code in method 1 do tha
 
 ![Merge Sort Simulation](merge-example.gif)
 
-*Source: https://en.wikipedia.org/wiki/Merge_sort* 
+_Source: [Wikipedia](https://en.wikipedia.org/wiki/Merge_sort)_
