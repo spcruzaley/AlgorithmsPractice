@@ -9,7 +9,7 @@ public class InsertionSort {
      * @param array
      * @return
      */
-    public static int[] insertionSort(int[] array) {
+    public static int[] sort(int[] array) {
         for (int i = 1; i < array.length; i++) {
             int k = i;
             for (int j = i - 1; j >= 0; j--) {

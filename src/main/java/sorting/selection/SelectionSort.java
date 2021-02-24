@@ -9,7 +9,7 @@ public class SelectionSort {
      * @param array
      * @return
      */
-    public static int[] selectionSort(int[] array) {
+    public static int[] sort(int[] array) {
         for(int i = 0; i < array.length; i++) {
             int currentPointer = i;
 
