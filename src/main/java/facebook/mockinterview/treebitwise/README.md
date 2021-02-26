@@ -39,8 +39,8 @@ The expected result is:
 ### Explanation
 
 * First: We need to flip the current node value, it is 0, so the final value will be 1.
-* Second: We will to update the parent node value based on bitwise AND operation between the two child nodes, it will be updated with 1
-    * We need to perform the same operation until we reach the root node.
+* Second: We will to update the parent node value based on bitwise AND operation between the two child nodes.
+    * Perform the same operation until we reach the root node.
 
 ### The possible solution given
 
