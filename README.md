@@ -88,6 +88,8 @@ All challenges has an indicator about the difficult level:
         * [![easy] Balance Brackets](src/main/java/facebook/interviewpreparation/stacks/BalanceBrackets.java) | [Test cases](src/test/java/facebook/interviewpreparation/stacks/BalanceBracketsTest.java)
     * Timed exercices (_Exercises with 20 minutes to solve it_)
         * [![easy] Answer a Query](src/main/java/facebook/interviewpreparation/timed/queries) | [Test cases](src/test/java/facebook/interviewpreparation/timed/queries/QueriesTest.java)
+    * Mock Interview
+        * [![easy] Binary Tree Bitwise](src/main/java/facebook/mockinterview/treebitwise/BinaryTreeBitwise.java) | [Test cases](src/test/java/facebook/mockinterview/treebitwise/BinaryTreeBitwiseTest.java)
 
 [//]: # (Reference links used in the file. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
