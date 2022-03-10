@@ -38,6 +38,7 @@ All challenges has an indicator about the difficult level:
         * [![easy] Maximum Subarray](src/main/java/leetcode/maximumsubarray/) | [Test cases](src/test/java/leetcode/maximumsubarray/)
         * [![easy] Move Zeroes](src/main/java/leetcode/movezeroes/) | [Test cases](src/test/java/leetcode/movezeroes/)
         * [![easy] Contains Duplicate](src/main/java/leetcode/containsduplicate/) | [Test cases](src/test/java/leetcode/containsduplicate/)
+        * [![medium] Duplicate Zeros](src/main/java/leetcode/duplicatezeros) | [Test cases](src/test/java/leetcode/duplicatezeros/)
     
     * **Trees and Graphs**
         * [![medium] Validate a Binary Search Tree](src/main/java/leetcode/premium/microsoft/ValidateBinarySearchTree.java) | [Test cases](src/test/java/leetcode/premium/microsoft/ValidateBinarySearchTreeTest.java)
