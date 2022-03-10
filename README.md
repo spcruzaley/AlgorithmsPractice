@@ -26,6 +26,12 @@ All challenges has an indicator about the difficult level:
 
 ## Platforms
 
+* CodeForces
+  * [![easy] Maximum Product](src/main/java/codeforces/maximumproduct) | Test cases pending
+  * [![unknown] Young Physicist](src/main/java/codeforces/youngphysicist) | [Test cases](src/test/java/codeforces/youngphysicist/)
+  * [![unknown] Beautiful Matrix](src/main/java/codeforces/beautifulmatrix) | [Test cases](src/test/java/codeforces/beautifulmatrix/)
+  * [![unknown] Queue at the School](src/main/java/codeforces/queueattheschool) | [Test cases](src/test/java/codeforces/queueattheschool/)
+
 * LeetCode
     * **Miscellaneous**
         * [![easy] Two-Sum](src/main/java/leetcode/twosum/) | [Test cases](src/test/java/leetcode/twosum/)
