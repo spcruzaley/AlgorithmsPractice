@@ -31,6 +31,7 @@ All challenges has an indicator about the difficult level:
   * [![unknown] Young Physicist](src/main/java/codeforces/youngphysicist) | [Test cases](src/test/java/codeforces/youngphysicist/)
   * [![unknown] Beautiful Matrix](src/main/java/codeforces/beautifulmatrix) | [Test cases](src/test/java/codeforces/beautifulmatrix/)
   * [![unknown] Queue at the School](src/main/java/codeforces/queueattheschool) | [Test cases](src/test/java/codeforces/queueattheschool/)
+  * [![easy] Borze](src/main/java/codeforces/borze) | [Test cases](src/test/java/codeforces/borze/)
 
 * LeetCode
     * **Miscellaneous**
