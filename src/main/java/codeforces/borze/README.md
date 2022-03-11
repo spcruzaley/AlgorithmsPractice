@@ -1,6 +1,6 @@
 # Codeforces
 
-## Borze (D)
+## Borze (Club de Algoritmia Hispano - D)
 URL: https://codeforces.com/group/WWgO08JwTh/contest/354246/problem/D
 
 ### Description

@@ -1,6 +1,6 @@
 # Codeforces
 
-## Beautiful Year (E)
+## Beautiful Year (Club de Algoritmia Hispano - E)
 URL: https://codeforces.com/group/WWgO08JwTh/contest/354246/problem/E
 
 ### Description

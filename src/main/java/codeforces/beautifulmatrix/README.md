@@ -1,6 +1,6 @@
 # Codeforces
 
-## Beautiful Matrix (B)
+## Beautiful Matrix (Club de Algoritmia Hispano - B)
 URL: https://codeforces.com/group/WWgO08JwTh/contest/354246/problem/B
 
 ### Description

@@ -1,6 +1,6 @@
 # Codeforces
 
-## Queue at the School (C)
+## Queue at the School (Club de Algoritmia Hispano - C)
 URL: https://codeforces.com/group/WWgO08JwTh/contest/354246/problem/C
 
 ### Description

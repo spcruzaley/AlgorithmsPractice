@@ -33,6 +33,7 @@ All challenges has an indicator about the difficult level:
   * [![unknown] Queue at the School](src/main/java/codeforces/queueattheschool) | [Test cases](src/test/java/codeforces/queueattheschool/)
   * [![easy] Borze](src/main/java/codeforces/borze) | [Test cases](src/test/java/codeforces/borze/)
   * [![easy] Beautiful Year](src/main/java/codeforces/beautifulyear) | [Test cases](src/test/java/codeforces/beautifulyear/)
+  * [![easy] Lights Out](src/main/java/codeforces/lightsout) | [Test cases](src/test/java/codeforces/lightsout/)
 
 * LeetCode
     * **Miscellaneous**

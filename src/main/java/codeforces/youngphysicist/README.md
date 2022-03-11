@@ -1,6 +1,6 @@
 # Codeforces
 
-## Young Physicist (A)
+## Young Physicist (Club de Algoritmia Hispano - A)
 URL: https://codeforces.com/group/WWgO08JwTh/contest/354246/problem/A
 
 ### Description
