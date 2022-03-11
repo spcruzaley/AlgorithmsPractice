@@ -36,6 +36,7 @@ All challenges has an indicator about the difficult level:
       * [![easy] Beautiful Year](src/main/java/codeforces/beautifulyear) | [Test cases](src/test/java/codeforces/beautifulyear/)
       * [![easy] Lights Out](src/main/java/codeforces/lightsout) | [Test cases](src/test/java/codeforces/lightsout/)
       * [![easy] Word](src/main/java/codeforces/word) | [Test cases](src/test/java/codeforces/word/)
+      * [![easy] Word Capitalization](src/main/java/codeforces/wordcapitalization) | [Test cases](src/test/java/codeforces/wordcapitalization/)
 
   * **Miscellaneous**
     * [![easy] Maximum Product](src/main/java/codeforces/maximumproduct) | Test cases pending
