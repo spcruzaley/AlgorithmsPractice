@@ -27,13 +27,18 @@ All challenges has an indicator about the difficult level:
 ## Platforms
 
 * CodeForces
-  * [![easy] Maximum Product](src/main/java/codeforces/maximumproduct) | Test cases pending
-  * [![unknown] Young Physicist](src/main/java/codeforces/youngphysicist) | [Test cases](src/test/java/codeforces/youngphysicist/)
-  * [![unknown] Beautiful Matrix](src/main/java/codeforces/beautifulmatrix) | [Test cases](src/test/java/codeforces/beautifulmatrix/)
-  * [![unknown] Queue at the School](src/main/java/codeforces/queueattheschool) | [Test cases](src/test/java/codeforces/queueattheschool/)
-  * [![easy] Borze](src/main/java/codeforces/borze) | [Test cases](src/test/java/codeforces/borze/)
-  * [![easy] Beautiful Year](src/main/java/codeforces/beautifulyear) | [Test cases](src/test/java/codeforces/beautifulyear/)
-  * [![easy] Lights Out](src/main/java/codeforces/lightsout) | [Test cases](src/test/java/codeforces/lightsout/)
+  * [Club de Algoritmia Hispano](https://codeforces.com/group/WWgO08JwTh/blog)
+    * **Ladders lte 1300 (1-26)**
+      * [![unknown] Young Physicist](src/main/java/codeforces/youngphysicist) | [Test cases](src/test/java/codeforces/youngphysicist/)
+      * [![unknown] Beautiful Matrix](src/main/java/codeforces/beautifulmatrix) | [Test cases](src/test/java/codeforces/beautifulmatrix/)
+      * [![unknown] Queue at the School](src/main/java/codeforces/queueattheschool) | [Test cases](src/test/java/codeforces/queueattheschool/)
+      * [![easy] Borze](src/main/java/codeforces/borze) | [Test cases](src/test/java/codeforces/borze/)
+      * [![easy] Beautiful Year](src/main/java/codeforces/beautifulyear) | [Test cases](src/test/java/codeforces/beautifulyear/)
+      * [![easy] Lights Out](src/main/java/codeforces/lightsout) | [Test cases](src/test/java/codeforces/lightsout/)
+      * [![easy] Word](src/main/java/codeforces/word) | [Test cases](src/test/java/codeforces/word/)
+
+  * **Miscellaneous**
+    * [![easy] Maximum Product](src/main/java/codeforces/maximumproduct) | Test cases pending
 
 * LeetCode
     * **Miscellaneous**
