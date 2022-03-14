@@ -37,6 +37,7 @@ All challenges has an indicator about the difficult level:
       * [![easy] Lights Out](src/main/java/codeforces/lightsout) | [Test cases](src/test/java/codeforces/lightsout/)
       * [![easy] Word](src/main/java/codeforces/word) | [Test cases](src/test/java/codeforces/word/)
       * [![easy] Word Capitalization](src/main/java/codeforces/wordcapitalization) | [Test cases](src/test/java/codeforces/wordcapitalization/)
+      * [![easy] Stones on the Table](src/main/java/codeforces/stonesonthetable) | [Test cases](src/test/java/codeforces/stonesonthetable/)
 
   * **Miscellaneous**
     * [![easy] Maximum Product](src/main/java/codeforces/maximumproduct) | Test cases pending
