@@ -59,6 +59,6 @@ We don't need to remove any letter since all letters have different neighbors.
 ### Solution
 
 * [Solution](Solution.java)
-  * [Test cases](../../../../test/java/codeforces/)
+  * [Test cases](../../../../test/java/codeforces/stonesonthetable/SolutionTest.java)
 
 > *NOTE: The approaches are base on my own knowledge and don't be taken as a final solution, it can or can't be the most efficient, If you have a better solution I encourage you to send me it if you want, to add it to the repository.*  
