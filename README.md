@@ -38,6 +38,7 @@ All challenges has an indicator about the difficult level:
       * [![easy] Word](src/main/java/codeforces/word) | [Test cases](src/test/java/codeforces/word/)
       * [![easy] Word Capitalization](src/main/java/codeforces/wordcapitalization) | [Test cases](src/test/java/codeforces/wordcapitalization/)
       * [![easy] Stones on the Table](src/main/java/codeforces/stonesonthetable) | [Test cases](src/test/java/codeforces/stonesonthetable/)
+      * [![easy] Panoramix's Prediction](src/main/java/codeforces/panoramixsprediction) | [Test cases](src/test/java/codeforces/panoramixsprediction)
 
   * **Miscellaneous**
     * [![easy] Maximum Product](src/main/java/codeforces/maximumproduct) | Test cases pending
