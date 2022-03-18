@@ -42,6 +42,7 @@ All challenges has an indicator about the difficult level:
       * [![unknown] Perfect Permutation](src/main/java/codeforces/perfectpermutation) | [Test cases](src/test/java/codeforces/perfectpermutation/)
       * [![easy] Arrival of the General](src/main/java/codeforces/arrivalofthegeneral) | [Test cases](src/test/java/codeforces/arrivalofthegeneral/)
       * [![easy] Ultra-Fast Mathematician](src/main/java/codeforces/ultrafastmathematician) | [Test cases](src/test/java/codeforces/ultrafastmathematician/)
+      * [![easy] Drinks](src/main/java/codeforces/drinks) | [Test cases](src/test/java/codeforces/drinks/)
 
   * **Miscellaneous**
     * [![easy] Maximum Product](src/main/java/codeforces/maximumproduct) | Test cases pending
