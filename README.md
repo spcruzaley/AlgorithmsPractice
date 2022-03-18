@@ -41,6 +41,7 @@ All challenges has an indicator about the difficult level:
       * [![easy] Panoramix's Prediction](src/main/java/codeforces/panoramixsprediction) | [Test cases](src/test/java/codeforces/panoramixsprediction/)
       * [![unknown] Perfect Permutation](src/main/java/codeforces/perfectpermutation) | [Test cases](src/test/java/codeforces/perfectpermutation/)
       * [![easy] Arrival of the General](src/main/java/codeforces/arrivalofthegeneral) | [Test cases](src/test/java/codeforces/arrivalofthegeneral/)
+      * [![easy] Ultra-Fast Mathematician](src/main/java/codeforces/ultrafastmathematician) | [Test cases](src/test/java/codeforces/ultrafastmathematician/)
 
   * **Miscellaneous**
     * [![easy] Maximum Product](src/main/java/codeforces/maximumproduct) | Test cases pending
