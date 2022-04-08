@@ -46,6 +46,7 @@ All challenges has an indicator about the difficult level:
       * [![easy] Insomnia cure](src/main/java/codeforces/insomniacure) | [Test cases](src/test/java/codeforces/insomniacure/)
       * [![easy] Cupboards](src/main/java/codeforces/cupboards) | [Test cases](src/test/java/codeforces/cupboards/)
       * [![easy] I_love_%username%](src/main/java/codeforces/loveusername) | [Test cases](src/test/java/codeforces/loveusername/)
+      * [![easy] Tram](src/main/java/codeforces/tram) | [Test cases](src/test/java/codeforces/tram/)
 
   * **Miscellaneous**
     * [![easy] Maximum Product](src/main/java/codeforces/maximumproduct) | Test cases pending
