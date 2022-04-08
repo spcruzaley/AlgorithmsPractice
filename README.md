@@ -48,6 +48,7 @@ All challenges has an indicator about the difficult level:
       * [![easy] I_love_%username%](src/main/java/codeforces/loveusername) | [Test cases](src/test/java/codeforces/loveusername/)
       * [![easy] Tram](src/main/java/codeforces/tram) | [Test cases](src/test/java/codeforces/tram/)
       * [![easy] Helpful Maths](src/main/java/codeforces/helpfulmaths) | [Test cases](src/test/java/codeforces/helpfulmaths/)
+      * [![easy] Is your horseshoe on the other hoof?](src/main/java/codeforces/horseshoeontheotherhoof) | [Test cases](src/test/java/codeforces/horseshoeontheotherhoof/)
 
   * **Miscellaneous**
     * [![easy] Maximum Product](src/main/java/codeforces/maximumproduct) | Test cases pending
