@@ -47,6 +47,7 @@ All challenges has an indicator about the difficult level:
       * [![easy] Cupboards](src/main/java/codeforces/cupboards) | [Test cases](src/test/java/codeforces/cupboards/)
       * [![easy] I_love_%username%](src/main/java/codeforces/loveusername) | [Test cases](src/test/java/codeforces/loveusername/)
       * [![easy] Tram](src/main/java/codeforces/tram) | [Test cases](src/test/java/codeforces/tram/)
+      * [![easy] Helpful Maths](src/main/java/codeforces/helpfulmaths) | [Test cases](src/test/java/codeforces/helpfulmaths/)
 
   * **Miscellaneous**
     * [![easy] Maximum Product](src/main/java/codeforces/maximumproduct) | Test cases pending
