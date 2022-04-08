@@ -50,6 +50,7 @@ All challenges has an indicator about the difficult level:
       * [![easy] Helpful Maths](src/main/java/codeforces/helpfulmaths) | [Test cases](src/test/java/codeforces/helpfulmaths/)
       * [![easy] Is your horseshoe on the other hoof?](src/main/java/codeforces/horseshoeontheotherhoof) | [Test cases](src/test/java/codeforces/horseshoeontheotherhoof/)
       * [![easy] Way Too Long Words](src/main/java/codeforces/waytoolongwords) | [Test cases](src/test/java/codeforces/waytoolongwords/)
+      * [![easy] Boy or Girl](src/main/java/codeforces/boyorgirl) | [Test cases](src/test/java/codeforces/boyorgirl/)
 
   * **Miscellaneous**
     * [![easy] Maximum Product](src/main/java/codeforces/maximumproduct) | Test cases pending
