@@ -44,6 +44,7 @@ All challenges has an indicator about the difficult level:
       * [![easy] Ultra-Fast Mathematician](src/main/java/codeforces/ultrafastmathematician) | [Test cases](src/test/java/codeforces/ultrafastmathematician/)
       * [![easy] Drinks](src/main/java/codeforces/drinks) | [Test cases](src/test/java/codeforces/drinks/)
       * [![easy] Insomnia cure](src/main/java/codeforces/insomniacure) | [Test cases](src/test/java/codeforces/insomniacure/)
+      * [![easy] Cupboards](src/main/java/codeforces/cupboards) | [Test cases](src/test/java/codeforces/cupboards/)
 
   * **Miscellaneous**
     * [![easy] Maximum Product](src/main/java/codeforces/maximumproduct) | Test cases pending
